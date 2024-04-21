@@ -1,0 +1,43 @@
+.container {
+    margin: auto;
+    width: 50%;
+    background-color: rgb(4, 146, 146);
+    height: auto;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* height: 90%; */
+    margin: auto;
+}
+
+.inp {
+    margin-top: 10px;
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.3em;
+}
+
+.submit {
+    width: 150px;
+    height: 35px;
+    font-size: 1.5em;
+    background-color: aqua;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
